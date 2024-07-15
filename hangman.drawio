@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T08:19:10.231Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="H4GQ8kl0ZGUTzcz88bPG" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T10:06:44.030Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="CJTz3s46YbNbyvjaauZd" version="24.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1368" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -10,7 +10,7 @@
             <mxPoint x="395" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;START&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="335" y="65" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IMrkIWhySPWTBcaSSDIY-3" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3">
@@ -107,23 +107,26 @@
         <mxCell id="IMrkIWhySPWTBcaSSDIY-29" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="542.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IMrkIWhySPWTBcaSSDIY-34" value="&lt;div&gt;Game Over&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IMrkIWhySPWTBcaSSDIY-34" value="GAME OVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="335" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IMrkIWhySPWTBcaSSDIY-36" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="90" y="970" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IMrkIWhySPWTBcaSSDIY-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IMrkIWhySPWTBcaSSDIY-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IMrkIWhySPWTBcaSSDIY-23" target="IMrkIWhySPWTBcaSSDIY-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="730" as="sourcePoint" />
+            <mxPoint x="640" y="1050" as="sourcePoint" />
             <mxPoint x="440" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="1050" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IMrkIWhySPWTBcaSSDIY-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="730" as="sourcePoint" />
-            <mxPoint x="440" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="IMrkIWhySPWTBcaSSDIY-40" value="&lt;div&gt;Yes&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IMrkIWhySPWTBcaSSDIY-41" value="&lt;div&gt;Hangman Game Flowchart&lt;/div&gt;&lt;div&gt;Created by: Madhup Tiwari&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
